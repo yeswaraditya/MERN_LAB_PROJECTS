@@ -1,1 +1,1 @@
-# college_website
+# MERN_LAB_PROJECTS
